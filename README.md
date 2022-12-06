@@ -18,6 +18,7 @@ Extract key information from scientific papers using NER
 ## Data
 
 - The dataset used in this project is from Workshop on Information Extraction from Scientific Publications (WIESP/2022).
+<img src="https://github.com/HimanS-sys/WIESP-NER/blob/main/assets/images/WIESP_data.png">
 - It comprises of text fragments from astrophysics papers, provided by the NASA Astrophysical Data System with manually tagged astronomical facilities and other entities of interest (e.g., celestial objects).
 - [Click Here!](https://huggingface.co/datasets/adsabs/WIESP2022-NER) to access the data.
 
